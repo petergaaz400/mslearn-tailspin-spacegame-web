@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/IBMPG2020/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/petergaaz400.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/IBMPG2020/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/IBMPG2020/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/petergaaz400.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/IBMPG2020/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petergaaz400_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=petergaaz400_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
